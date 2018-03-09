@@ -8,7 +8,7 @@ the scenarios._
 For each scenario have the group whiteboard a diagram of the solution. Ensure
 that everyone in the group understands the terminology used to describe the
 scenario. Then for each of the updates discuss ways that the current
-implementation is insufficient and different aproaches for updating the
+implementation is insufficient and different approaches for updating the
 environment to meet the new requirements.
 
 ## Scenario 1

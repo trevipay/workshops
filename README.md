@@ -26,3 +26,6 @@ with example code where applicable.
 ## [Week 9](/week09) - Speed Test 2 & Data Munging 1
 
 ## [Week 10](/week10) - Data Munging 2 & 3
+
+
+# [Contributing](CONTRIBUTION.md)
