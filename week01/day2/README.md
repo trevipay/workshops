@@ -3,7 +3,7 @@
 ## Problem statement
 
 Research either the Bellman-Ford or Dijkstra least-cost pathing algorithm for
-ten minutes, then give a five minute or less lightening talk on what you’ve
+ten minutes, then give a five minute or less lightning talk on what you’ve
 learned.
 
 ## Goal
