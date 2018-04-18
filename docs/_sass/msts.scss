@@ -18,14 +18,14 @@ a:hover {
   text-decoration: underline;
 }
 header {
-  background-color: #0c2340;
+  background-color: #025c7f;
   display: flex;
-  padding: 1.5% 3% 1.5% 3%;
+  padding: .8% 3% .8% 3%;
   align-items: center;
   justify-content: flex-start;
 }
 #logo-bar {
-  background-color: #0b5a9d;
+  background-color: #0078bf;
   display: flex;
   padding: 2%;
   justify-content: center;
@@ -46,10 +46,10 @@ img {
     max-width: 600px;
   }
   .quote {
-    border-left: 1px solid #e0e0e0;
-    border-right: 1px solid #e0e0e0;
-    color: #0b5a9d;
-    padding: 3%;
+    border-top: 3px solid #e0e0e0;
+    border-bottom: 3px solid #e0e0e0;
+    color: #025c7f;
+    padding: 5%;
     font-style: italic;
     font-size: 1.2em;
     margin-bottom: 2em;
@@ -57,15 +57,23 @@ img {
 
     p {
       margin-bottom: 0;
+      color: #025c7f;
+    }
+
+    hr {
+      border: 0;
+      border-top: 1px solid #e0e0e0;
+      margin: 20px 0;
+      width: 140px;
     }
   }
   h1 {
-    color: #0c2340;
+    color: #0078bf;
     margin-bottom: 1em;
     font-size: 2em;
   }
   h2 {
-    color: #0b5a9d;
+    color: #025c7f;
     margin-bottom: 1em;
     font-size: 1.8em;
   }
