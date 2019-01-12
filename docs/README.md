@@ -61,19 +61,19 @@ new ones, finally arriving at a ten-week course.
 
 # Moving forward
 
-It’s been a year and we're still doing Workshops. We found that it was
-difficult for teams to maintain momentum after the curriculum completed and we
-felt we were missing an opportunity to extend the cross-team interactions even
-further. After a few iterations we arrived at the following structure.
+We've been doing Workshops since they were introduced in 2017. We found that it
+was difficult for teams to maintain momentum after the curriculum completed and
+we felt we were missing an opportunity to extend the cross-team interactions
+even further. After a few iterations we arrived at the following structure.
 
 Every two weeks we randomize the list of people who have completed the
 curriculum, group them into teams of four or five, then randomly choose one
 person from each group to be the leader. For people who don't think they will
-have time we provide an opt-out mechanism each week. We provide a suggested
-code kata for the first three sessions, then for the fourth and final session
-the teams find a current technical article or news item to read and discuss.
-It's the group leader's responsibility to schedule the four thirty minute
-sessions and keep everything on track that week.
+have time we provide an opt-out mechanism each cycle. We provide a current tech
+article for the teams to read and discuss during the first session, then a
+suggested code kata for the last three sessions.  It's the group leader's
+responsibility to schedule the four thirty minute sessions and keep everything
+on track that week.
 
 This random selection has helped more people establish relationships outside of
 their teams. By exposing our engineers to more of their coworkers they now know
